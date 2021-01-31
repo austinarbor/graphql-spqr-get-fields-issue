@@ -1,0 +1,10 @@
+dev/aga/graphql/controller/GraphQLController.java
+ dev.aga.graphql.controller.GraphQLController
+dev/aga/graphql/service/SomeService.java
+ dev.aga.graphql.service.SomeService
+dev/aga/graphql/Main.java
+ dev.aga.graphql.Main
+dev/aga/graphql/model/Model.java
+ dev.aga.graphql.model.Model
+dev/aga/graphql/config/GraphQLConfig.java
+ dev.aga.graphql.config.GraphQLConfig
